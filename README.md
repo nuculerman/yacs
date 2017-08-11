@@ -1,5 +1,12 @@
 # Yacs
 
+Chat Server Tutorial
+* http://blog.distortedthinking.agency/articles/phoenix-framework-building-a-chat-server-in-15-minutes/
+
+Docker
+* https://www.docker.com/docker-windows
+* run command: docker run --name yacs-postgress -p 5432:5432 -e POSTGRES_PASSWORD=yaccetyyac -d postgres
+
 To start your Phoenix app:
 
   * Install dependencies with `mix deps.get`
